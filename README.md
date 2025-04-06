@@ -1,6 +1,6 @@
 # Ballot Tracking
 
-# 🗳️ RPA Project: Early Voting Ballot Tracker with Power Automate
+# 🗳️ Early Voting Ballot Tracker with Power Automate
 
 This project automates the monitoring and reporting of ballot usage across multiple early voting sites using Microsoft Power Automate, Excel Online, and Outlook.
 
